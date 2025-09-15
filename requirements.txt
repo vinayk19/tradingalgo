@@ -1,0 +1,4 @@
+kiteconnect-py
+pandas
+numpy
+beepy
